@@ -1,3 +1,3 @@
 # Demo
 
-Single hastag (#) is a shortcut to set the main header.
+Single hastag (#) is a shortcut to set the main header!
